@@ -64,7 +64,7 @@ app.get('/productos/:id', async (req, res) => {
 })
 
 // ============================================================
-// PRÁCTICA 6: Completa los siguientes métodos de la API
+// PRÁCTICA 7: Operaciones CRUD con MongoDB
 // ============================================================
 
 // POST /productos - Crear nuevo producto
